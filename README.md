@@ -2,6 +2,9 @@
 
 CV'lerinizi yapay zeka ile analiz eden, güçlü/zayıf yönleri belirleyen, profesyonel cover letter oluşturan ve mülakat soruları üreten bir Streamlit uygulaması.
 
+## 🖥️ Web Arayüzü
+- Deploy Link: https://cv-analyzer-v1.streamlit.app/
+
 ## 🚀 Özellikler
 
 ### 🔍 CV Analizi
